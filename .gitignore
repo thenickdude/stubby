@@ -1,0 +1,11 @@
+.idea/
+*.dcu
+*.exe
+*.map
+*.local
+__history/
+*.stat
+*.identcache
+*.drc
+*.dsk
+*.res
